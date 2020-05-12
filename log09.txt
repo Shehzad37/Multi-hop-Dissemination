@@ -1,0 +1,226 @@
+00:00.331	ID:9	[INFO: Main      ] Starting Contiki-NG-release/v4.4-97-g55dc08a-dirty
+00:00.334	ID:9	[INFO: Main      ] - Routing: nullrouting
+00:00.336	ID:9	[INFO: Main      ] - Net: nullnet
+00:00.338	ID:9	[INFO: Main      ] - MAC: CSMA
+00:00.342	ID:9	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.345	ID:9	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.347	ID:9	[INFO: Main      ] Node ID: 9
+00:00.353	ID:9	[INFO: Main      ] Link-layer address: 0909.0900.0974.1200
+00:00.356	ID:9	[INFO: Sky       ] CC2420 CCA threshold -45
+00:00.494	ID:2	[INFO: Main      ] Starting Contiki-NG-release/v4.4-97-g55dc08a-dirty
+00:00.497	ID:2	[INFO: Main      ] - Routing: nullrouting
+00:00.499	ID:2	[INFO: Main      ] - Net: nullnet
+00:00.502	ID:2	[INFO: Main      ] - MAC: CSMA
+00:00.505	ID:2	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.508	ID:2	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.509	ID:7	[INFO: Main      ] Starting Contiki-NG-release/v4.4-97-g55dc08a-dirty
+00:00.511	ID:2	[INFO: Main      ] Node ID: 2
+00:00.512	ID:7	[INFO: Main      ] - Routing: nullrouting
+00:00.514	ID:7	[INFO: Main      ] - Net: nullnet
+00:00.516	ID:2	[INFO: Main      ] Link-layer address: 0202.0200.0274.1200
+00:00.516	ID:7	[INFO: Main      ] - MAC: CSMA
+00:00.519	ID:2	[INFO: Sky       ] CC2420 CCA threshold -45
+00:00.519	ID:7	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.523	ID:7	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.525	ID:7	[INFO: Main      ] Node ID: 7
+00:00.530	ID:7	[INFO: Main      ] Link-layer address: 0707.0700.0774.1200
+00:00.534	ID:7	[INFO: Sky       ] CC2420 CCA threshold -45
+00:00.606	ID:4	[INFO: Main      ] Starting Contiki-NG-release/v4.4-97-g55dc08a-dirty
+00:00.609	ID:4	[INFO: Main      ] - Routing: nullrouting
+00:00.612	ID:4	[INFO: Main      ] - Net: nullnet
+00:00.614	ID:4	[INFO: Main      ] - MAC: CSMA
+00:00.617	ID:4	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.621	ID:4	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.623	ID:4	[INFO: Main      ] Node ID: 4
+00:00.628	ID:4	[INFO: Main      ] Link-layer address: 0404.0400.0474.1200
+00:00.632	ID:4	[INFO: Sky       ] CC2420 CCA threshold -45
+00:00.640	ID:1	[INFO: Main      ] Starting Contiki-NG-release/v4.4-97-g55dc08a-dirty
+00:00.643	ID:1	[INFO: Main      ] - Routing: nullrouting
+00:00.645	ID:1	[INFO: Main      ] - Net: nullnet
+00:00.648	ID:1	[INFO: Main      ] - MAC: CSMA
+00:00.651	ID:1	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.655	ID:1	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.657	ID:1	[INFO: Main      ] Node ID: 1
+00:00.660	ID:8	[INFO: Main      ] Starting Contiki-NG-release/v4.4-97-g55dc08a-dirty
+00:00.662	ID:1	[INFO: Main      ] Link-layer address: 0101.0100.0174.1200
+00:00.663	ID:8	[INFO: Main      ] - Routing: nullrouting
+00:00.665	ID:8	[INFO: Main      ] - Net: nullnet
+00:00.665	ID:1	[INFO: Sky       ] CC2420 CCA threshold -45
+00:00.667	ID:8	[INFO: Main      ] - MAC: CSMA
+00:00.671	ID:8	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.674	ID:8	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.676	ID:8	[INFO: Main      ] Node ID: 8
+00:00.682	ID:8	[INFO: Main      ] Link-layer address: 0808.0800.0874.1200
+00:00.685	ID:8	[INFO: Sky       ] CC2420 CCA threshold -45
+00:00.967	ID:5	[INFO: Main      ] Starting Contiki-NG-release/v4.4-97-g55dc08a-dirty
+00:00.969	ID:5	[INFO: Main      ] - Routing: nullrouting
+00:00.972	ID:5	[INFO: Main      ] - Net: nullnet
+00:00.973	ID:6	[INFO: Main      ] Starting Contiki-NG-release/v4.4-97-g55dc08a-dirty
+00:00.974	ID:5	[INFO: Main      ] - MAC: CSMA
+00:00.976	ID:6	[INFO: Main      ] - Routing: nullrouting
+00:00.977	ID:5	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.978	ID:6	[INFO: Main      ] - Net: nullnet
+00:00.980	ID:6	[INFO: Main      ] - MAC: CSMA
+00:00.981	ID:5	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.983	ID:5	[INFO: Main      ] Node ID: 5
+00:00.984	ID:6	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.987	ID:6	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.988	ID:5	[INFO: Main      ] Link-layer address: 0505.0500.0574.1200
+00:00.990	ID:6	[INFO: Main      ] Node ID: 6
+00:00.992	ID:5	[INFO: Sky       ] CC2420 CCA threshold -45
+00:00.994	ID:5	p_id is 1[INFO: App       ] 
+00:00.995	ID:6	[INFO: Main      ] Link-layer address: 0606.0600.0674.1200
+00:00.998	ID:6	[INFO: Sky       ] CC2420 CCA threshold -45
+00:01.157	ID:3	[INFO: Main      ] Starting Contiki-NG-release/v4.4-97-g55dc08a-dirty
+00:01.160	ID:3	[INFO: Main      ] - Routing: nullrouting
+00:01.163	ID:3	[INFO: Main      ] - Net: nullnet
+00:01.165	ID:3	[INFO: Main      ] - MAC: CSMA
+00:01.168	ID:3	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:01.172	ID:3	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:01.174	ID:3	[INFO: Main      ] Node ID: 3
+00:01.179	ID:3	[INFO: Main      ] Link-layer address: 0303.0300.0374.1200
+00:01.183	ID:3	[INFO: Sky       ] CC2420 CCA threshold -45
+00:05.358	ID:9	[INFO: App       ] 
+00:05.521	ID:2	[INFO: App       ] 
+00:05.536	ID:7	[INFO: App       ] 
+00:05.633	ID:4	[INFO: App       ] 
+00:05.667	ID:1	[INFO: App       ] 
+00:05.687	ID:8	[INFO: App       ] 
+00:05.999	ID:5	[INFO: App       ] Sending Data to 0505.0500.0574.1200[INFO: App       ] 
+00:06.000	ID:6	[INFO: App       ] 
+00:06.002	ID:5	p_id is 2[INFO: App       ] 
+00:06.037	ID:4	[INFO: App       ] Sending Data to 0404.0400.0474.1200Process id is 1
+00:06.037	ID:6	[INFO: App       ] Sending Data to 0606.0600.0674.1200Process id is 1
+00:06.037	ID:2	[INFO: App       ] Sending Data to 0202.0200.0274.1200Process id is 1
+00:06.037	ID:3	Process id is 1
+00:06.044	ID:4	[INFO: App       ] Recived Data from 0505.0500.0574.1200[INFO: App       ] 
+00:06.044	ID:6	[INFO: App       ] Recived Data from 0505.0500.0574.1200[INFO: App       ] 
+00:06.044	ID:2	[INFO: App       ] Recived Data from 0505.0500.0574.1200[INFO: App       ] 
+00:06.044	ID:3	[INFO: App       ] Recived Data from 0505.0500.0574.1200[INFO: App       ] 
+00:06.051	ID:7	[INFO: App       ] Sending Data to 0707.0700.0774.1200Process id is 1
+00:06.058	ID:7	[INFO: App       ] Recived Data from 0404.0400.0474.1200[INFO: App       ] 
+00:06.064	ID:6	Process id is 1
+00:06.065	ID:1	[INFO: App       ] Sending Data to 0101.0100.0174.1200Process id is 1
+00:06.065	ID:3	Process id is 1
+00:06.065	ID:2	Process id is 1
+00:06.070	ID:6	[INFO: App       ] Recived Data from 0303.0300.0374.1200[INFO: App       ] 
+00:06.071	ID:3	[INFO: App       ] Recived Data from 0202.0200.0274.1200[INFO: App       ] 
+00:06.071	ID:1	[INFO: App       ] Recived Data from 0202.0200.0274.1200[INFO: App       ] 
+00:06.072	ID:2	[INFO: App       ] Recived Data from 0303.0300.0374.1200[INFO: App       ] 
+00:06.083	ID:8	[INFO: App       ] Sending Data to 0808.0800.0874.1200Process id is 1
+00:06.083	ID:9	[INFO: App       ] Sending Data to 0909.0900.0974.1200Process id is 1
+00:06.087	ID:4	Process id is 1
+00:06.089	ID:8	[INFO: App       ] Recived Data from 0606.0600.0674.1200[INFO: App       ] 
+00:06.089	ID:9	[INFO: App       ] Recived Data from 0606.0600.0674.1200[INFO: App       ] 
+00:06.094	ID:4	[INFO: App       ] Recived Data from 0707.0700.0774.1200[INFO: App       ] 
+00:06.094	ID:9	Process id is 1
+00:06.101	ID:9	[INFO: App       ] Recived Data from 0707.0700.0774.1200[INFO: App       ] 
+00:06.107	ID:6	Process id is 1
+00:06.107	ID:4	Process id is 1
+00:06.113	ID:7	Process id is 1
+00:06.113	ID:9	Process id is 1
+00:06.113	ID:6	[INFO: App       ] Recived Data from 0909.0900.0974.1200[INFO: App       ] 
+00:06.113	ID:4	[INFO: App       ] Recived Data from 0909.0900.0974.1200[INFO: App       ] 
+00:06.117	ID:4	Process id is 1
+00:06.120	ID:9	[INFO: App       ] Recived Data from 0808.0800.0874.1200[INFO: App       ] 
+00:06.120	ID:7	[INFO: App       ] Recived Data from 0808.0800.0874.1200[INFO: App       ] 
+00:06.124	ID:4	[INFO: App       ] Recived Data from 0101.0100.0174.1200[INFO: App       ] 
+00:06.184	ID:3	[INFO: App       ] 
+00:10.358	ID:9	[INFO: App       ] 
+00:10.521	ID:2	[INFO: App       ] 
+00:10.536	ID:7	[INFO: App       ] 
+00:10.633	ID:4	[INFO: App       ] 
+00:10.667	ID:1	[INFO: App       ] 
+00:10.687	ID:8	[INFO: App       ] 
+00:10.999	ID:5	[INFO: App       ] Sending Data to 0505.0500.0574.1200[INFO: App       ] 
+00:11.000	ID:6	[INFO: App       ] 
+00:11.002	ID:5	p_id is 3[INFO: App       ] 
+00:11.044	ID:2	[INFO: App       ] Sending Data to 0202.0200.0274.1200Process id is 2
+00:11.044	ID:3	[INFO: App       ] Sending Data to 0303.0300.0374.1200Process id is 2
+00:11.044	ID:6	[INFO: App       ] Sending Data to 0606.0600.0674.1200Process id is 2
+00:11.044	ID:4	[INFO: App       ] Sending Data to 0404.0400.0474.1200Process id is 2
+00:11.045	ID:9	[INFO: App       ] Sending Data to 0909.0900.0974.1200Process id is 2
+00:11.045	ID:8	[INFO: App       ] Sending Data to 0808.0800.0874.1200Process id is 2
+00:11.050	ID:2	[INFO: App       ] Recived Data from 0505.0500.0574.1200[INFO: App       ] 
+00:11.050	ID:3	[INFO: App       ] Recived Data from 0505.0500.0574.1200[INFO: App       ] 
+00:11.050	ID:6	[INFO: App       ] Recived Data from 0505.0500.0574.1200[INFO: App       ] 
+00:11.050	ID:4	[INFO: App       ] Recived Data from 0505.0500.0574.1200[INFO: App       ] 
+00:11.051	ID:9	[INFO: App       ] Recived Data from 0505.0500.0574.1200[INFO: App       ] 
+00:11.051	ID:8	[INFO: App       ] Recived Data from 0505.0500.0574.1200[INFO: App       ] 
+00:11.056	ID:1	[INFO: App       ] Sending Data to 0101.0100.0174.1200Process id is 2
+00:11.056	ID:6	Process id is 2
+00:11.057	ID:9	Process id is 2
+00:11.058	ID:4	Process id is 2
+00:11.062	ID:1	[INFO: App       ] Recived Data from 0202.0200.0274.1200[INFO: App       ] 
+00:11.063	ID:6	[INFO: App       ] Recived Data from 0303.0300.0374.1200[INFO: App       ] 
+00:11.064	ID:9	[INFO: App       ] Recived Data from 0808.0800.0874.1200[INFO: App       ] 
+00:11.065	ID:4	[INFO: App       ] Recived Data from 0808.0800.0874.1200[INFO: App       ] 
+00:11.068	ID:6	Process id is 2
+00:11.070	ID:8	Process id is 2
+00:11.075	ID:6	[INFO: App       ] Recived Data from 0909.0900.0974.1200[INFO: App       ] 
+00:11.076	ID:8	[INFO: App       ] Recived Data from 0909.0900.0974.1200[INFO: App       ] 
+00:11.077	ID:4	Process id is 2
+00:11.080	ID:8	Process id is 2
+00:11.080	ID:9	Process id is 2
+00:11.081	ID:3	Process id is 2
+00:11.083	ID:4	[INFO: App       ] Recived Data from 0101.0100.0174.1200[INFO: App       ] 
+00:11.087	ID:8	[INFO: App       ] Recived Data from 0606.0600.0674.1200[INFO: App       ] 
+00:11.087	ID:9	[INFO: App       ] Recived Data from 0606.0600.0674.1200[INFO: App       ] 
+00:11.088	ID:3	[INFO: App       ] Recived Data from 0606.0600.0674.1200[INFO: App       ] 
+00:11.090	ID:7	[INFO: App       ] Sending Data to 0707.0700.0774.1200Process id is 2
+00:11.091	ID:8	Process id is 2
+00:11.091	ID:1	Process id is 2
+00:11.096	ID:7	[INFO: App       ] Recived Data from 0404.0400.0474.1200[INFO: App       ] 
+00:11.097	ID:8	[INFO: App       ] Recived Data from 0404.0400.0474.1200[INFO: App       ] 
+00:11.097	ID:1	[INFO: App       ] Recived Data from 0404.0400.0474.1200[INFO: App       ] 
+00:11.126	ID:8	Process id is 2
+00:11.133	ID:8	[INFO: App       ] Recived Data from 0707.0700.0774.1200[INFO: App       ] 
+00:11.184	ID:3	[INFO: App       ] 
+00:15.358	ID:9	[INFO: App       ] 
+00:15.521	ID:2	[INFO: App       ] 
+00:15.536	ID:7	[INFO: App       ] 
+00:15.633	ID:4	[INFO: App       ] 
+00:15.667	ID:1	[INFO: App       ] 
+00:15.687	ID:8	[INFO: App       ] 
+00:15.999	ID:5	[INFO: App       ] Sending Data to 0505.0500.0574.1200[INFO: App       ] 
+00:16.000	ID:6	[INFO: App       ] 
+00:16.002	ID:5	p_id is 4[INFO: App       ] 
+00:16.007	ID:2	[INFO: App       ] Sending Data to 0202.0200.0274.1200Process id is 3
+00:16.007	ID:8	[INFO: App       ] Sending Data to 0808.0800.0874.1200Process id is 3
+00:16.008	ID:6	[INFO: App       ] Sending Data to 0606.0600.0674.1200Process id is 3
+00:16.008	ID:1	[INFO: App       ] Sending Data to 0101.0100.0174.1200Process id is 3
+00:16.013	ID:2	[INFO: App       ] Recived Data from 0505.0500.0574.1200[INFO: App       ] 
+00:16.014	ID:8	[INFO: App       ] Recived Data from 0505.0500.0574.1200[INFO: App       ] 
+00:16.014	ID:6	[INFO: App       ] Recived Data from 0505.0500.0574.1200[INFO: App       ] 
+00:16.014	ID:1	[INFO: App       ] Recived Data from 0505.0500.0574.1200[INFO: App       ] 
+00:16.019	ID:9	[INFO: App       ] Sending Data to 0909.0900.0974.1200Process id is 3
+00:16.019	ID:7	[INFO: App       ] Sending Data to 0707.0700.0774.1200Process id is 3
+00:16.024	ID:1	Process id is 3
+00:16.024	ID:3	[INFO: App       ] Sending Data to 0303.0300.0374.1200Process id is 3
+00:16.026	ID:9	[INFO: App       ] Recived Data from 0808.0800.0874.1200[INFO: App       ] 
+00:16.026	ID:7	[INFO: App       ] Recived Data from 0808.0800.0874.1200[INFO: App       ] 
+00:16.031	ID:3	[INFO: App       ] Recived Data from 0202.0200.0274.1200[INFO: App       ] 
+00:16.031	ID:1	[INFO: App       ] Recived Data from 0202.0200.0274.1200[INFO: App       ] 
+00:16.035	ID:9	Process id is 3
+00:16.037	ID:2	Process id is 3
+00:16.037	ID:6	Process id is 3
+00:16.037	ID:3	Process id is 3
+00:16.039	ID:8	Process id is 3
+00:16.039	ID:4	[INFO: App       ] Sending Data to 0404.0400.0474.1200Process id is 3
+00:16.041	ID:9	[INFO: App       ] Recived Data from 0606.0600.0674.1200[INFO: App       ] 
+00:16.043	ID:2	[INFO: App       ] Recived Data from 0303.0300.0374.1200[INFO: App       ] 
+00:16.043	ID:6	[INFO: App       ] Recived Data from 0303.0300.0374.1200[INFO: App       ] 
+00:16.044	ID:3	[INFO: App       ] Recived Data from 0606.0600.0674.1200[INFO: App       ] 
+00:16.046	ID:8	[INFO: App       ] Recived Data from 0707.0700.0774.1200[INFO: App       ] 
+00:16.046	ID:4	[INFO: App       ] Recived Data from 0707.0700.0774.1200[INFO: App       ] 
+00:16.047	ID:2	Process id is 3
+00:16.050	ID:4	Process id is 3
+00:16.054	ID:2	[INFO: App       ] Recived Data from 0101.0100.0174.1200[INFO: App       ] 
+00:16.056	ID:4	[INFO: App       ] Recived Data from 0101.0100.0174.1200[INFO: App       ] 
+00:16.057	ID:6	Process id is 3
+00:16.063	ID:6	[INFO: App       ] Recived Data from 0909.0900.0974.1200[INFO: App       ] 
+00:16.098	ID:7	Process id is 3
+00:16.098	ID:1	Process id is 3
+00:16.104	ID:7	[INFO: App       ] Recived Data from 0404.0400.0474.1200[INFO: App       ] 
+00:16.105	ID:1	[INFO: App       ] Recived Data from 0404.0400.0474.1200[INFO: App       ] 
+00:16.184	ID:3	[INFO: App       ] 
