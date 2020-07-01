@@ -7,5 +7,9 @@ Multi hop network simulation where central node cannot reach every node and othe
 * files with extenxion .csc are full project files you can run them directly in Cooja.
 
 # Requirements
+* contiki-NG
+* Docker
+* Xlaunch(for windows)
+
 Learn Here:
 https://github.com/contiki-ng/contiki-ng
