@@ -1,6 +1,11 @@
 # Multi-hop-Dissemination in Contiki-NG
-Multi hop network simulation where central node cant reach every node and other nodes have to act as relays to send payload to the whole network avoiding broadcast storm.
+Multi hop network simulation where central node cannot reach every node and other nodes have to act as relays to send payload to the whole network avoiding broadcast storm.
 
-buffers.c have to be slave nodes and origin.c is the central node.
+# Usage
+* buffers.c have to be slave nodes 
+* origin.c is the central node.
+* files with extenxion .csc are full project files you can run them directly in Cooja.
 
-files with extenxion .csc are full project files youi can run them directly.
+# Requirements
+Learn Here:
+https://github.com/contiki-ng/contiki-ng
